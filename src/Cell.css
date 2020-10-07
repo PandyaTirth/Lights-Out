@@ -1,0 +1,13 @@
+.Cell {
+  margin-left: auto;
+  margin-right: auto;
+  height: 10vh;
+  width: 10vh;
+  border-radius: 1px ;
+  background-color: #263238;
+  transition: background-color 0.7s ease;
+}
+
+.Cell-lit {
+  background-color: #00bcd4;
+}
